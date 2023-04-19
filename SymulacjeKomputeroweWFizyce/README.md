@@ -21,4 +21,4 @@ Stworzone w ramach zajęć na Wydziale Fizyki UW. Obejmują:
  ![](5lab1paprotka.png)
  ![](5lab1trojkat.png)
   ![](6lab2.gif)
-  
+  ![](przeplyw.gif)
